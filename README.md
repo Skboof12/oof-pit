@@ -1,1 +1,1 @@
-Our main code is Mcscript and Mcscript2
+Our main code is Mcscript and Mc2script
